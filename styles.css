@@ -1,0 +1,54 @@
+
+* {
+    box-sizing:border-box
+}
+
+body{
+    background-color: rgba(12, 136, 173, 0.966);
+    height: 100%;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-top: 30px;
+    
+}
+
+.container{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    background-image: url(img/banner_wl.jpg);
+    background-position: center;
+    box-sizing: border-box;
+    width: 90%;
+    margin:auto;
+    padding-top: 30px;
+    padding-right: 20px ;
+    padding-left: 30px;
+    padding-bottom: 30px;
+   
+    border-top: auto;
+    border-radius: 20px;
+}
+/* formulários*/
+.main-form .form-group{
+    padding-bottom: 10px;
+}
+.main-form.form-group {
+    padding: 10px;
+}
+.main-form .form-group label{
+    display:block
+}
+
+.button {
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: bold;
+}
+
+
